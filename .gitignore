@@ -2,4 +2,6 @@ Debug/
 .settings/
 *.launch
 *.log
-/Debug/
+*.d
+*.obj
+Aggiornato .gitignore con file temporanei CCS
